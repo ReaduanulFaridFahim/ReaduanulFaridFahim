@@ -1,11 +1,21 @@
 - 👋 Hi, I’m @ReaduanulFaridFahim
-- 👀 I’m interested in Soprts,learning new things and also love adventure
-- 🌱 I’m currently learning process. Now i study BSc in CSE at NSU.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-email- readuanulfaridfahim26@gmail.com
 
-<!---
-ReaduanulFaridFahim/ReaduanulFaridFahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently learning skills in HTML, CSS, Javascript, MongoDB, ReactJS, NodeJS, ExpressJS, Python, Machine Learning, Deep Learning, AI
+
+🌱 I’m currently learning CSS, Javascript, MongoDB, ReactJS, NodeJS, ExpressJS, Python
+
+👯 I’m looking for guidance in Machine Learning, AI
+
+🤝 I’m looking for help with programming ML
+
+👨‍💻 All of my projects are available at https://github.com/SyedMozahidulIslam
+
+📝 I regularly write articles on https://www.facebook.com/smifahim2
+
+💬 Ask me about C, C++, Java, Python
+
+📫 How to reach me: readuanulfaridfahim26@gmail.com 
+
+📄 Know about my experiences: https://github.com/readuanulfaridfahim
+
+⚡ Fun fact: I am an Extrovert
