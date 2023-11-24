@@ -8,9 +8,9 @@
 
 🤝 I’m looking for help with programming ML
 
-👨‍💻 All of my projects are available at https://github.com/SyedMozahidulIslam
+👨‍💻 All of my projects are available at https://github.com/readuanulfaridfahim
 
-📝 I regularly write articles on https://www.facebook.com/smifahim2
+📝 I regularly write articles on https://www.facebook.com/readuanulfaridfahim
 
 💬 Ask me about C, C++, Java, Python
 
