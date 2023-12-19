@@ -52,7 +52,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ReaduaulFarid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ReaduanulFarid1" height="30" width="40" /></a>
-
 <a href="[(https://www.facebook.com/profile.php?id=100010341435259)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ReaduanulFarid1" height="30" width="40" /></a>
 <a href="https://instagram.com/__fah_im__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__fah_im__" height="30" width="40" /></a>
 
