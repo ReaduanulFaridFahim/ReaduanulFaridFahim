@@ -28,8 +28,6 @@
 
 - 🔭 I’m currently learning skills **HTML, CSS, Javascript, MongoDB, ReactJS, NodeJS, ExpressJS, Python, Machine Learning, Deep Learning, AI**
 
-- 🌱 I’m currently learning **CSS, Javascript, MongoDB, ReactJS, NodeJS, ExpressJS, Python**
-
 - 👯 I’m looking for guidance **Machine Learning, AI**
 
 - 🤝 I’m looking for help with programming **ML**
@@ -38,7 +36,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100010341435259](https://www.facebook.com/profile.php?id=100010341435259)
 
-- 💬 Ask me about **C, C++, Java, Python**
+- 💬 Ask me about **C, C++, Java,**
 
 - 📫 How to reach me **readuanulfaridfahim26@gmail.com**
 
