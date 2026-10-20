@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Readuanul Farid Fahim ðŸ‘‹
-### AI Systems Engineer Â· Autonomous Workflow Architect Â· Solutions Lead
+# Hi there, I'm Readuanul Farid Fahim 👋
+### AI Systems Engineer · Autonomous Workflow Architect · Solutions Lead
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ReaduanulFaridFahim&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye)](https://github.com/ReaduanulFaridFahim)
 [![Cal.com Booking](https://img.shields.io/badge/Cal.com-Schedule%2030--Min%20Discovery-0284c7?style=for-the-badge&logo=calendar)](https://cal.com/zenthra-systems-dyuqpi/30min)
@@ -11,36 +11,36 @@
 
 <br>
 
-**Founder of [Zenthra Systems](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) Â· Architecting Sovereign AI Agents, n8n Orchestration Clusters & Enterprise Automation Meshes**
+**Founder of [Zenthra Systems](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) · Architecting Sovereign AI Agents, n8n Orchestration Clusters & Enterprise Automation Meshes**
 
 </div>
 
 ---
 
-### ðŸš€ Executive Bio
+### 🚀 Executive Bio
 
 I architect high-throughput autonomous AI agents, enterprise n8n workflow systems, sovereign Supabase pgvector RAG databases, and resilient full-stack applications. I partner with scaling enterprises across North America, EMEA, and APAC to eliminate manual data handoffs and reclaim up to **85% of operational labor costs**.
 
-- ðŸ¢ **Founder & Solutions Architect:** [Zenthra Systems](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) â€” Enterprise AI Automation Agency & Systems Studio.
-- ðŸ§  **Technical Specializations:** Autonomous AI Agents (LangChain / GPT-4o / Claude 3.5), n8n Private Clusters, Sovereign Vector Search (Supabase pgvector), Mobile & Web SQA Automation (Appium / Selenium / PyTest), Computer Vision & Document OCR.
-- ðŸŒ **Global Coverage:** Deploying turnkey automation systems across the US, UK, Europe, Singapore, and Australia.
-- ðŸ’¬ **Ask Me About:** Eliminating the "Zapier tax", sub-30s speed-to-lead triage, autonomous invoicing vision pipelines, and multi-currency ROI modeling.
+- 🏢 **Founder & Solutions Architect:** [Zenthra Systems](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) — Enterprise AI Automation Agency & Systems Studio.
+- 🧠 **Technical Specializations:** Autonomous AI Agents (LangChain / GPT-4o / Claude 3.5), n8n Private Clusters, Sovereign Vector Search (Supabase pgvector), Mobile & Web SQA Automation (Appium / Selenium / PyTest), Computer Vision & Document OCR.
+- 🌍 **Global Coverage:** Deploying turnkey automation systems across the US, UK, Europe, Singapore, and Australia.
+- 💬 **Ask Me About:** Eliminating the "Zapier tax", sub-30s speed-to-lead triage, autonomous invoicing vision pipelines, and multi-currency ROI modeling.
 
 ---
 
-### ðŸ† Featured Flagship Repositories
+### 🏆 Featured Flagship Repositories
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
-| [**Zenthera-Systems-AI-Automation**](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) | Autonomous Front-Office AI Agent, n8n Orchestration Backbone, Supabase pgvector RAG, Multi-CRM Sync & B2B Poster Studio | [ðŸŒ Live Enterprise Portal](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) â€¢ [ðŸŽ¨ Poster Studio](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/poster_studio.html) |
-| [**tactical-void-replacement-engine**](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) | Empirical Sporting Continuity, Vector Similarity & Arbitrage Scouting Platform for Football Players and Coaches | [ðŸŒ Live Analytics App](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
-| [**ABC-Company-Sqa-Assignment**](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) | Enterprise Mobile App SQA Automation Suite engineered with Appium, PyTest, and Page Object Model (POM) | [ðŸ“„ Architecture & POM Specs](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
-| [**football-transfers-ffp**](https://github.com/ReaduanulFaridFahim/football-transfers-ffp) | Financial Fair Play (FFP) Compliance, Squad Amortization & Transfer Market Intelligence Platform | [ðŸŒ Analytics Portal](https://readuanulfaridfahim.github.io/football-transfers-ffp/) |
-| [**readuanulfaridfahim.github.io**](https://github.com/ReaduanulFaridFahim/readuanulfaridfahim.github.io) | Personal Engineering Portfolio & Technical Systems Showcase | [ðŸŒ Live Website](https://readuanulfaridfahim.github.io/) |
+| [**Zenthera-Systems-AI-Automation**](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) | Autonomous Front-Office AI Agent, n8n Orchestration Backbone, Supabase pgvector RAG, Multi-CRM Sync & B2B Poster Studio | [🌐 Live Enterprise Portal](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) • [🎨 Poster Studio](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/poster_studio.html) |
+| [**tactical-void-replacement-engine**](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) | Empirical Sporting Continuity, Vector Similarity & Arbitrage Scouting Platform for Football Players and Coaches | [🌐 Live Analytics App](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
+| [**ABC-Company-Sqa-Assignment**](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) | Enterprise Mobile App SQA Automation Suite engineered with Appium, PyTest, and Page Object Model (POM) | [📄 Architecture & POM Specs](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
+| [**football-transfers-ffp**](https://github.com/ReaduanulFaridFahim/football-transfers-ffp) | Financial Fair Play (FFP) Compliance, Squad Amortization & Transfer Market Intelligence Platform | [🌐 Analytics Portal](https://readuanulfaridfahim.github.io/football-transfers-ffp/) |
+| [**readuanulfaridfahim.github.io**](https://github.com/ReaduanulFaridFahim/readuanulfaridfahim.github.io) | Personal Engineering Portfolio & Technical Systems Showcase | [🌐 Live Website](https://readuanulfaridfahim.github.io/) |
 
 ---
 
-### ðŸ› ï¸ Core Engineering Stack
+### 🛠️ Core Engineering Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -68,7 +68,7 @@ Data & Cloud:     PostgreSQL, Google BigQuery, Redis, Docker, GitHub Actions, Li
 
 ---
 
-### ðŸ“Š GitHub Activity & Real-Time Telemetry
+### 📊 GitHub Activity & Real-Time Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReaduanulFaridFahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
@@ -81,9 +81,9 @@ Data & Cloud:     PostgreSQL, Google BigQuery, Redis, Docker, GitHub Actions, Li
 
 ---
 
-### ðŸ“¬ Connect With Me
+### 📬 Connect With Me
 
-- ðŸ“… **Direct Consultation:** [https://cal.com/zenthra-systems-dyuqpi/30min](https://cal.com/zenthra-systems-dyuqpi/30min)
-- ðŸ’¼ **Email:** [connect.zenthra@gmail.com](mailto:connect.zenthra@gmail.com)
-- ðŸŒ **Company Website:** [https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/)
-- ðŸ’» **Engineering Portfolio:** [https://readuanulfaridfahim.github.io/](https://readuanulfaridfahim.github.io/)
+- 📅 **Direct Consultation:** [https://cal.com/zenthra-systems-dyuqpi/30min](https://cal.com/zenthra-systems-dyuqpi/30min)
+- 💼 **Email:** [connect.zenthra@gmail.com](mailto:connect.zenthra@gmail.com)
+- 🌐 **Company Website:** [https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/)
+- 💻 **Engineering Portfolio:** [https://readuanulfaridfahim.github.io/](https://readuanulfaridfahim.github.io/)
