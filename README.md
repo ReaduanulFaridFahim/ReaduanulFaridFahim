@@ -1,127 +1,101 @@
-<div align="center">
+﻿# ðŸŒŸ Readuanul Farid Fahim â€” Complete GitHub Profile & Multi-Repository Elevation Blueprint
 
-  <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b111c,50:1a2333,100:4fd1c5&height=220&section=header&text=Readuanul%20Farid%20Fahim&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Airport%20Operations&descAlignY=58&descAlign=50" width="100%" alt="Header Wave Banner" />
-
-  <!-- Animated Typing SVG -->
-  <p align="center">
-    <a href="https://readuanulfaridfahim.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=4FD1C5&center=true&vCenter=true&width=720&lines=Machine+Learning+%26+Computer+Vision+Specialist;Airport+Operations+Executive+%40+US-Bangla+Airlines;CSE+Graduate+%40+North+South+University;Appium+%26+Mobile+SQA+Automation+Engineer;Joint+Secretary+%40+NSU+Games+%26+Sports+Club" alt="Typing Animation" />
-    </a>
-  </p>
-
-  <!-- Live Visitor Counter & Navigation Badges -->
-  <p align="center">
-    <a href="https://readuanulfaridfahim.github.io" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-readuanulfaridfahim.github.io-F2A93B?style=for-the-badge&logo=googlechrome&logoColor=0B111C" alt="Portfolio Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/readuanulfaridfahim" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Readuanul_Farid_Fahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="mailto:readuanulfaridfahim26@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email-readuanulfaridfahim26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Readuanul" />
-    </a>
-    <a href="https://github.com/ReaduanulFaridFahim" target="_blank" rel="noopener noreferrer">
-      <img src="https://komarev.com/ghpvc/?username=ReaduanulFaridFahim&label=PROFILE%20VIEWS&color=4FD1C5&style=for-the-badge" alt="Total Profile Visitors" />
-    </a>
-  </p>
-
-</div>
+This master blueprint elevates your entire GitHub profile and all 14 repositories to tier-1 enterprise standards.
 
 ---
 
-### 👨‍💻 Executive Summary
+## 1. Master GitHub Profile README (`ReaduanulFaridFahim/ReaduanulFaridFahim`)
 
-I am a **Computer Science & Engineering graduate** from **North South University**, specializing in **Machine Learning and Artificial Intelligence**, currently serving as an **Airport Operations Executive** at **US-Bangla Airlines**.
+To transform your main GitHub landing page (`https://github.com/ReaduanulFaridFahim`), paste the following markdown into the `README.md` of your [`ReaduanulFaridFahim/ReaduanulFaridFahim`](https://github.com/ReaduanulFaridFahim/ReaduanulFaridFahim) repository:
 
-My background combines engineering rigor with mission-critical operational execution:
-
-* ✈️ **Aviation & Airport Operations**: Managing high-tempo airside ramp turnarounds, precision scheduling, and regulatory safety protocols under strict zero-delay targets.
-* 🤖 **Machine Learning & Computer Vision**: Architecting deep neural networks, OCR pipelines, real-time sign language classifiers, and predictive clinical diagnostic systems in Python.
-* 🧪 **Software Quality Assurance**: Building robust automated testing suites for mobile and web systems using **Appium**, **Playwright**, and exploratory verification frameworks.
-* 🏆 **Athletic Governance & Leadership**: Four-year Joint Secretary of the **North South University Games & Sports Club (NSUSC)**, directing university-wide sporting tournaments and student leadership initiatives.
-
-> *"Precision on the airport ramp. Rigor in machine learning models. High accountability in every commit."*
-
----
-
-### 🛠️ Technical Ecosystem
-
-<div align="center">
-
-  <!-- Interactive Skill Icons Grid -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,pandas,numpy,cpp,c,java,js,html,css,nodejs,postgres,mysql,mongodb,git,linux,bash&theme=dark" alt="Tech Stack Icons" />
-  </p>
-
-| Domain | Core Technologies & Frameworks |
-| :--- | :--- |
-| **Machine Learning & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Software QA & Automation** | ![Software QA](https://img.shields.io/badge/SQA-Testing_Expertise-22C55E?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Web & Databases** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-</div>
-
----
-
-### 🚀 Featured Engineering Projects
-
-| Project | Description | Core Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **Bangla Handwritten OCR** | Computer Vision system parsing handwritten Bangla characters into editable digital formats. | `Python` `OpenCV` `Deep Learning` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-) |
-| **Sign Language Detection** | Real-time computer vision pipeline tracking and interpreting continuous hand sign gestures. | `Python` `OpenCV` `CNN` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/Sign-Language-Detection) |
-| **Sleep Disorder Prediction** | Supervised predictive ML model classifying sleep health risk factors under NSU faculty supervision. | `Python` `scikit-learn` `Classification` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/Sleep-Disorder-Predictions-) |
-| **Mobile SQA Automation** | Enterprise-grade test automation framework built with Appium and Python for mobile apps. | `Appium` `Python` `QA Automation` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
-| **AR Clothing Trial App** | Augmented Reality application allowing dynamic apparel preview and virtual fitting visualization. | `AR` `Mobile` `Computer Vision` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/Augmented-Reality-Based-Clothing-Trial-App) |
-| **Bike Price Valuation** | Supervised regression system calculating pre-owned two-wheeler market values based on key attributes. | `Python` `scikit-learn` `Regression` | [View Repo ↗](https://github.com/ReaduanulFaridFahim/Pre-Owned-Bike-Price-Prediction) |
-| **Interactive Portfolio** | Fast, responsive personal portfolio with automated end-to-end validation suites and CSS micro-animations. | `HTML5` `CSS3` `JavaScript` `Playwright` | [Live Site ↗](https://readuanulfaridfahim.github.io) |
-
----
-
-### 📊 GitHub Activity & Real-Time Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReaduanulFaridFahim&show_icons=true&theme=tokyonight&border_radius=8&include_all_commits=true&count_private=true" alt="Readuanul's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaduanulFaridFahim&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" width="49%" />
-</div>
+```markdown
+# Hi there, I'm Readuanul Farid Fahim ðŸ‘‹
+### AI Systems Engineer Â· Autonomous Workflow Architect Â· SQA Automation Lead
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReaduanulFaridFahim&theme=tokyonight&border_radius=8" alt="GitHub Streak" width="98%" />
+  <a href="https://cal.com/zenthra-systems-dyuqpi/30min">
+    <img src="https://img.shields.io/badge/Cal.com-Schedule%2030--Min%20Discovery-0284c7?style=for-the-badge&logo=calendar" alt="Schedule Discovery">
+  </a>
+  <a href="mailto:connect.zenthra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-connect.zenthra%40gmail.com-ea4335?style=for-the-badge&logo=gmail" alt="Email Me">
+  </a>
+  <a href="https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/">
+    <img src="https://img.shields.io/badge/Live%20Platform-Zenthra%20Systems-059669?style=for-the-badge&logo=statuspage" alt="Live Platform">
+  </a>
 </p>
 
 ---
 
-### 📈 Profile Traffic & Global Visitors
+### ðŸš€ About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>👀 Total Profile Visits</b><br/><br/>
-        <img src="https://komarev.com/ghpvc/?username=ReaduanulFaridFahim&label=PROFILE%20VIEWS&color=4FD1C5&style=for-the-badge" alt="Profile View Counter" />
-      </td>
-      <td align="center" width="50%">
-        <b>⚡ Engineering Status</b><br/><br/>
-        <img src="https://img.shields.io/badge/Status-Actively_Innovating-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status" />
-      </td>
-    </tr>
-  </table>
-</div>
+I architect high-throughput autonomous AI agents, enterprise n8n workflow systems, sovereign Supabase pgvector RAG databases, and resilient full-stack applications. I help scaling enterprises eliminate manual data handoffs and reclaim 85% of operational labor costs.
+
+- ðŸ¢ **Founder & Solutions Architect:** [Zenthra Systems](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/)
+- ðŸ§  **Specializations:** Autonomous AI Agents (LangChain / GPT-4o), n8n Private Clusters, Vector Search (pgvector), SQA Mobile & Web Automation (Appium / Selenium / Python), Computer Vision & OCR.
+- ðŸŒ **Global Coverage:** Deploying turnkey automation systems across the US, UK, Europe, Singapore, and Australia.
+- ðŸ’¬ **Ask me about:** Eliminating the "Zapier tax", sub-30s speed-to-lead triage, autonomous invoicing vision pipelines, and multi-currency ROI modeling.
 
 ---
 
-### 📬 Connect With Me
+### ðŸ† Featured Flagship Repositories
 
-* 🌐 **Portfolio**: [readuanulfaridfahim.github.io](https://readuanulfaridfahim.github.io)
-* 💼 **LinkedIn**: [linkedin.com/in/readuanulfaridfahim](https://www.linkedin.com/in/readuanulfaridfahim)
-* 📧 **Email**: [readuanulfaridfahim26@gmail.com](mailto:readuanulfaridfahim26@gmail.com)
-* 📍 **Location**: Dhaka, Bangladesh
+| Repository | Focus & Architecture | Live Demo |
+| :--- | :--- | :--- |
+| [**Zenthera-Systems-AI-Automation**](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) | Autonomous Front-Office AI Agent, n8n Orchestration, Supabase pgvector RAG, Multi-CRM Sync & Poster Studio | [ðŸŒ Live Portal](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) |
+| [**tactical-void-replacement-engine**](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) | Empirical Sporting Continuity, Vector Similarity & Arbitrage Scouting Platform for Football Players & Coaches | [ðŸŒ Live App](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
+| [**ABC-Company-Sqa-Assignment**](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) | Enterprise Mobile App SQA Automation Suite engineered with Appium, PyTest, and Page Object Model | [ðŸ“„ Architecture](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
+| [**football-transfers-ffp**](https://github.com/ReaduanulFaridFahim/football-transfers-ffp) | Financial Fair Play (FFP) Compliance & Squad Amortization Analytics Engine | [ðŸŒ Analytics Portal](https://readuanulfaridfahim.github.io/football-transfers-ffp/) |
 
-<div align="center">
+---
 
-  <!-- Animated Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fd1c5,50:1a2333,100:0b111c&height=120&section=footer" width="100%" alt="Footer Wave Banner" />
+### ðŸ› ï¸ Core Engineering Stack
 
-  <sub>Crafted &amp; Maintained with precision by <b>Readuanul Farid Fahim</b>.</sub>
-</div>
+```
+Languages:     Python, JavaScript (ES6+), TypeScript, SQL (PostgreSQL), HTML5/CSS3
+AI & RAG:      LangChain, OpenAI GPT-4o, Supabase pgvector, Embeddings (text-embedding-3-small)
+Automation:    n8n (Self-Hosted & Cloud), Webhook Event Meshes, Zapier Migration, Ayrshare
+CRM & APIs:    HubSpot API, Notion API, Resend, SendGrid, Cal.com API, Apollo.io, Slack Webhooks
+QA & Testing:  Appium, Selenium WebDriver, PyTest, Allure Reporting, Postman, Jest
+Data & Cloud:  Google BigQuery, Supabase, Redis, Docker, GitHub Actions, Git
+```
+
+---
+
+### ðŸ“Š GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReaduanulFaridFahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaduanulFaridFahim&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ðŸ“¬ Connect With Me
+
+- ðŸ“… **Direct Consultation:** [https://cal.com/zenthra-systems-dyuqpi/30min](https://cal.com/zenthra-systems-dyuqpi/30min)
+- ðŸ’¼ **Email:** [connect.zenthra@gmail.com](mailto:connect.zenthra@gmail.com)
+- ðŸŒ **Portfolio:** [https://readuanulfaridfahim.github.io/](https://readuanulfaridfahim.github.io/)
+```
+
+---
+
+## 2. All 14 Repositories Metadata & QA Polish Matrix
+
+Use this matrix to update the **About** section (Description & Topics) for each of your 14 GitHub repositories on the GitHub website:
+
+| # | Repository Name | Recommended Professional Description | Recommended Topics (Tags) |
+| :--- | :--- | :--- | :--- |
+| 1 | **Zenthera-Systems-AI-Automation** | Autonomous Enterprise AI Operations, n8n Workflow Systems, Supabase pgvector RAG Hub & Client Acquisition Engine. | `ai-agents`, `n8n-workflows`, `supabase-pgvector`, `langchain`, `enterprise-automation` |
+| 2 | **tactical-void-replacement-engine** | Empirical Sporting Continuity, Vector Similarity & Arbitrage Scouting Platform for Football Players and Head Coaches. | `sports-analytics`, `vector-similarity`, `arbitrage-scouting`, `football-analytics`, `javascript` |
+| 3 | **football-transfers-ffp** | Financial Fair Play (FFP) Compliance, Squad Amortization & Transfer Market Intelligence Platform. | `football-finance`, `ffp-compliance`, `transfer-analytics`, `python`, `data-analytics` |
+| 4 | **ReaduanulFaridFahim** | Master Profile README & Enterprise Engineering Portfolio Showcase. | `github-profile`, `portfolio`, `ai-engineer`, `solutions-architect` |
+| 5 | **readuanulfaridfahim.github.io** | Personal Engineering Portfolio & Technical Systems Showcase. | `portfolio-website`, `fullstack`, `personal-website`, `software-engineer` |
+| 6 | **Pre-Owned-Bike-Price-Prediction** | Machine Learning Valuation Model for Secondary Two-Wheeler Market Pricing with Regression Pipelines. | `machine-learning`, `price-prediction`, `scikit-learn`, `regression`, `data-science` |
+| 7 | **ABC-Company-Sqa-Assignment** | Automated SQA Testing Framework for Enterprise Mobile Apps using Appium, Python & Page Object Model. | `sqa-automation`, `appium`, `pytest`, `mobile-testing`, `quality-assurance` |
+| 8 | **Augmented-Reality-Based-Clothing-Trial-App** | Augmented Reality Virtual Fitting Room & Clothing Trial Application with Real-Time Pose Estimation. | `augmented-reality`, `virtual-fitting`, `pose-estimation`, `computer-vision` |
+| 9 | **-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-** | Deep Learning OCR Pipeline for Bangla Handwritten Script Segmentation, Classification & Digital Transcription. | `ocr`, `bangla-ocr`, `deep-learning`, `optical-character-recognition`, `nlp` |
+| 10 | **Sign-Language-Detection** | Real-Time Computer Vision System for Sign Language Gesture Recognition using OpenCV & Deep Learning. | `sign-language-detection`, `computer-vision`, `opencv`, `deep-learning`, `gesture-recognition` |
+| 11 | **Sleep-Disorder-Predictions-** | Clinical Sleep Disorder Classification System Utilizing Predictive Machine Learning Pipelines. | `machine-learning`, `health-informatics`, `sleep-disorder`, `classification`, `healthcare-ai` |
+| 12 | **Libray-Managment-System-RFF-WRT** | Enterprise Library Management System with Role-Based Access Control, Catalog Tracking & SQL Database. | `java`, `library-management`, `sql`, `desktop-application`, `crud-operations` |
+| 13 | **Hotel-Management-System-** | Full-Stack Hospitality Reservation, Room Inventory & Billing Management Web Application. | `php`, `mysql`, `hotel-management`, `web-application`, `reservation-system` |
+| 14 | **CV** | Interactive Digital Curriculum Vitae & Professional Career Portfolio. | `cv`, `resume`, `career-portfolio`, `html5`, `css3` |
