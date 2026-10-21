@@ -23,13 +23,12 @@
 
 > *Bridging cutting-edge ML research and production-grade autonomous intelligence — engineering scalable neural models, computer vision systems, and robust AI architectures that make real-world impact.*
 
-I'm an innovative **AI Engineer** and **Machine Learning Specialist** passionate about the full spectrum of artificial intelligence — from developing deep learning Computer Vision and NLP models to architecting autonomous agentic RAG workflows and high-dimensional vector search engines. Holding a B.Sc. in Computer Science & Engineering with a Major in **Machine Learning & AI** from **North South University**, and bringing real-world operational reliability from aviation operations at **US-Bangla Airlines**, I'm driven by the challenge of making intelligent systems robust, scalable, and mission-critical.
+I'm an innovative **AI Engineer** and **Machine Learning Specialist** passionate about the full spectrum of artificial intelligence — from developing deep learning Computer Vision and NLP models to architecting autonomous agentic RAG workflows and high-dimensional vector search engines. I'm driven by the challenge of turning complex mathematical models into scalable, production-grade intelligent systems that make real-world impact.
 
 ```python
 fahim = {
     "location"   : "Dhaka, Bangladesh 🇧🇩",
-    "education"  : "B.Sc. in Computer Science & Engineering (Major: ML & AI)",
-    "university" : "North South University",
+    "role"       : "AI Engineer & Machine Learning Specialist",
     "focus"      : ["AI/ML Engineering", "Computer Vision", "Autonomous RAG Systems"],
     "working_on" : ["Zenthera Systems — Autonomous Enterprise AI Operations & Vector RAG",
                     "Tactical Void Engine — Quantitative Vector Similarity Continuity Platform"],
@@ -137,7 +136,7 @@ A real-time spatial computer vision virtual fitting room tracking **33 full-body
     <br/>
     <img src="https://img.shields.io/badge/Data%20%26%20Ops-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data & Ops"/>
     <br/><br/>
-    <sub>Predictive Modeling · Regression Pipelines · SPSS Statistics · Aviation Operations Discipline</sub>
+    <sub>Predictive Modeling · Feature Engineering · SPSS Statistics · High-Availability Pipeline Design</sub>
     <br/><br/>
   </td>
 </tr>
@@ -205,59 +204,6 @@ A real-time spatial computer vision virtual fitting room tracking **33 full-body
 | 📱 **SQA** | **Mobile App SQA Automation Framework** | Enterprise mobile automation suite built on Appium and Python utilizing the Page Object Model (POM) pattern. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
 | 🏨 **FULLSTACK**| **Hotel Hospitality Management System** | Multi-tier relational database system handling room reservations, guest inventory, and billing workflows. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Hotel-Management-System-) |
 | 🌐 **DATABASE** | **Campus Lost & Found Portal** | Full-stack inventory database application with item indexing, category filtering, and identity verification. | 🌐 Academic Project • Web Application |
-
----
-
-## 💼 Professional & Operational Experience
-
-#### ✈️ **Executive (Airport Service) | US Bangla Airlines**
-*December 2025 – Running*
-- ☑ Coordinate ground operations and aircraft turnaround activities in a high-tempo airport environment, ensuring safe and on-time flight departures.
-- ☑ Enforce aviation safety standards, ramp support telemetry, and regulatory operational compliance.
-- ☑ Resolve critical passenger inquiries, operational bottlenecks, and service disruptions under tight departure windows.
-- ☑ Collaborate cross-functionally with dispatch, engineering, and ramp crews to maintain optimal operational throughput.
-
-#### 🏢 **Management Trainee | TechDistri Limited**
-*June 2025 – November 2025*
-- ☑ Conducted comprehensive product analysis, market research, and competitive intelligence for technology solutions.
-- ☑ Developed data-driven lead generation mechanisms and supported strategic business development initiatives.
-- ☑ Synthesized market analytics reports to inform go-to-market strategies and technology distribution partnerships.
-
-#### 🌐 **International Business Development Intern (Remote) | GAOTek Inc.**
-*April 2025 – May 2025*
-- ☑ Orchestrated international market research, global lead identification, and strategic B2B outreach across high-tech industries.
-- ☑ Evaluated regional market demographics and delivered structured analytical intelligence briefings.
-
-#### ⚽ **Joint Secretary | North South University Games and Sports Club (NSUSC)**
-*April 2025 – Present*
-- ☑ Engineered and launched the club's official digital web platform (nsuac.org).
-- ☑ Organized nationwide collegiate tournaments, including the flagship NSU Inter-University Sports Carnival.
-- ☑ Led and mentored an executive body of 300+ club members, overseeing operational budgeting, logistics, and digital systems.
-- ☑ Managed athletic teams and volunteered across national university sporting championships.
-
----
-
-## 🎓 Education Background
-
-- 🎓 **Bachelor of Science in Computer Science & Engineering**
-  - **North South University, Bangladesh** (2020–2025)
-  - **Specialization / Major:** **Machine Learning & Artificial Intelligence**
-  - *Core Disciplines:* Neural Networks & Deep Learning, Computer Vision, Natural Language Processing, Pattern Recognition, Distributed Database Systems, Data Structures & Algorithms.
-- 🏫 **Higher Secondary School Certificate (HSC)**
-  - **Chittagong Cantonment Public College** (2017–2019)
-  - **Group:** Science
-- 🏫 **Secondary School Certificate (SSC)**
-  - **Bakolia Government High School** (2011–2017)
-  - **Group:** Science
-
----
-
-## 📑 Academic Reference
-
-**MD Hasan Mamun**  
-Senior Lecturer, School of Business & Economics, North South University, Bangladesh  
-Faculty Advisor, North South University Athletics Club  
-📧 Email: [hasan.mamun@northsouth.edu](mailto:hasan.mamun@northsouth.edu)
 
 ---
 
