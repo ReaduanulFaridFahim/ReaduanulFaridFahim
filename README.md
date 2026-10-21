@@ -28,184 +28,92 @@
     <img src="https://img.shields.io/badge/Digital%20CV-Interactive%20Resume-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bashundhara%20R%2FA%2C%20Dhaka-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=ReaduanulFaridFahim&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <!-- Sleek Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
+<!-- Bulletproof Quick Navigation Bar -->
+<p align="center">
+  <a href="#about-me"><b>About Me</b></a> •
+  <a href="#job-experience"><b>Experience</b></a> •
+  <a href="#extracurricular-activities"><b>Leadership</b></a> •
+  <a href="#academic--technical-projects"><b>Projects</b></a> •
+  <a href="#education-background"><b>Education</b></a> •
+  <a href="#technical-skills--competencies"><b>Skills</b></a> •
+  <a href="#references"><b>References</b></a> •
+  <a href="#github-analytics"><b>Analytics</b></a>
+</p>
+
 </div>
 
 ---
 
-<!-- =========================================================================
-     EXECUTIVE 2-COLUMN CV PRESENTATION (EXACT MATCH TO OFFICIAL CV DOCUMENT)
-     ========================================================================= -->
+### <span id="about-me">👤</span> About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <!-- ================= LEFT COLUMN: CONTACT, EDUCATION, SKILLS, COMPETENCIES ================= -->
-    <td width="35%" valign="top">
-
-      <h3>📞 My Contact</h3>
+    <td width="66%" valign="top">
       <p>
-        <b>Email:</b> <a href="mailto:Readuanulfaridfahim1@gmail.com">Readuanulfaridfahim1@gmail.com</a><br>
-        <b>Phone:</b> <a href="tel:+88001856501926">+880-01856501926</a><br>
-        <b>Address:</b> Bashundhara R/A, Dhaka, Bangladesh<br>
-        <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/readuanulfaridfahim-b097741b4/">readuanulfaridfahim-b097741b4</a><br>
-        <b>Portfolio:</b> <a href="https://readuanulfaridfahim.github.io/">readuanulfaridfahim.github.io</a><br>
-        <b>Interactive CV:</b> <a href="https://readuanulfaridfahim.github.io/CV/">Live Web Resume</a>
-      </p>
-
-      <hr>
-
-      <h3>🎓 Education Background</h3>
-      <p>
-        <b>Bachelor of Computer Science &amp; Engineering</b><br>
-        North South University, Bangladesh (2020–2025)<br>
-        <span style="color:#10b981;"><b>Major: Machine Learning &amp; AI</b></span>
-      </p>
-      <p>
-        <b>Higher Secondary School Certificate</b><br>
-        Chittagong Cantonment Public College (2017–2019)<br>
-        <em>Science</em>
-      </p>
-      <p>
-        <b>Secondary School Certificate</b><br>
-        Bakolia Government High School (2011–2017)<br>
-        <em>Science</em>
-      </p>
-
-      <hr>
-
-      <h3>🛠️ Technical Skills</h3>
-      <ul>
-        <li>➢ Advanced Microsoft Office Proficiency <em>(Word, Excel, PowerPoint, Access)</em></li>
-        <li>➢ Creative Software Mastery <em>(Canva)</em></li>
-        <li>➢ Statistical Competence <em>(SPSS)</em></li>
-        <li>➢ Prompt Engineering <em>(ChatGPT, DeepSeek)</em></li>
-        <li>➢ <b>Programming &amp; Development:</b> (HTML, CSS, C, Java, Python)</li>
-        <li>➢ <b>Web Development:</b> (HTML, CSS, JS)</li>
-        <li>➢ <b>AI &amp; Data Tools:</b> (TensorFlow, OpenCV, SPSS, Machine Learning, NLP)</li>
-        <li>➢ <b>AI Productivity Tools:</b> (ChatGPT, MidJourney, DeepSeek, Grok, Qwen, Gemini)</li>
-      </ul>
-
-      <hr>
-
-      <h3>⚡ Core Competencies</h3>
-      <ul>
-        <li>➢ Networking</li>
-        <li>➢ Event Coordination</li>
-        <li>➢ Problem-Solving</li>
-        <li>➢ Research and Analysis</li>
-        <li>➢ Multitasker</li>
-        <li>➢ Airport Operations</li>
-        <li>➢ Ramp &amp; Ground Coordination</li>
-        <li>➢ Customer Service</li>
-        <li>➢ Operational Management</li>
-        <li>➢ Data Analysis</li>
-        <li>➢ Team Leadership</li>
-      </ul>
-
-    </td>
-
-    <!-- ================= RIGHT COLUMN: ABOUT, EXPERIENCE, EXTRACURRICULAR, PROJECTS, REFERENCES ================= -->
-    <td width="65%" valign="top">
-
-      <div align="center">
-        <h2>Readuanul Farid Fahim</h2>
-        <p><b>CSE Graduate | Airport Operations Executive | Customer Service &amp; Aviation Operations</b></p>
-      </div>
-
-      <h3>👤 About Me</h3>
-      <p align="justify">
         AI-focused CSE graduate with hands-on experience in aviation operations, customer service, business research, and technology-driven projects. Currently working in airport operations, supporting safe and on-time flight activities while developing strong coordination, communication, and problem-solving skills. Experienced in machine learning, web development, and team leadership, having managed university clubs and large-scale sports events. Passionate about combining technology, operations, and innovation to contribute effectively in dynamic professional environments.
       </p>
-
-      <hr>
-
-      <h3>💼 Job Experience</h3>
-
-      <h4>✈️ Executive (Airport Service) | US Bangla Airlines</h4>
-      <p><em>December 2025 – Running</em></p>
-      <ul>
-        <li>☑ Support aircraft operations to ensure safe and on-time departures</li>
-        <li>☑ Coordinate ramp and ground support activities in a fast-paced airport environment.</li>
-        <li>☑ Assist passengers with customer service and operational inquiries</li>
-        <li>☑ Maintain operational safety procedures and airline service standards.</li>
-        <li>☑ Collaborate with operational teams to support smooth airport activities</li>
-      </ul>
-
-      <h4>🏢 Management Trainee | TechDistri Limited</h4>
-      <p><em>June 2025 – November 2025</em></p>
-      <ul>
-        <li>☑ Conducted product analysis and business research for technology solutions</li>
-        <li>☑ Assisted in lead generation and business development activities.</li>
-        <li>☑ Supported market analysis, reporting, and operational coordination</li>
-        <li>☑ Worked closely with teams to support strategic business initiatives.</li>
-      </ul>
-
-      <h4>🌐 International Business Development Intern (Remote) | GAOTek Inc.</h4>
-      <p><em>April 2025 – May 2025</em></p>
-      <ul>
-        <li>☑ Lead Generation &amp; Outreach</li>
-        <li>☑ Market Research &amp; Analysis</li>
-      </ul>
-
-      <hr>
-
-      <h3>🏆 Extracurricular Activities</h3>
-
-      <h4>⚽ Joint Secretary | North South University Games and Sports Club (NSUSC)</h4>
-      <p><em>April 2025 – Present</em></p>
-      <ul>
-        <li>☑ Created the Club's official Website (<a href="https://nsuac.org">nsuac.org</a>).</li>
-        <li>☑ Organized all the internal sports events at NSU.</li>
-        <li>☑ Organized National Sports Events (NSU Inter-University Sports Carnival).</li>
-        <li>☑ Managed all the club websites.</li>
-        <li>☑ Led a team of 300+ club members.</li>
-        <li>☑ Managed the university sports team.</li>
-        <li>☑ Volunteering at some national events.</li>
-      </ul>
-
-      <hr>
-
-      <h3>💻 Academic &amp; Technical Projects</h3>
-
-      <ul>
-        <li>☑ <b>Pre-owned Bike Price Prediction in Bangladesh</b> Using Machine Learning Techniques. [<a href="https://github.com/ReaduanulFaridFahim/Pre-Owned-Bike-Price-Prediction">🐙 Repo</a>]</li>
-        <li>☑ <b>Sleep Disorder Prediction</b> Using Machine Learning Technique. [<a href="https://github.com/ReaduanulFaridFahim/Sleep-Disorder-Predictions-">🐙 Repo</a>]</li>
-        <li>☑ <b>Augmented Reality-Based Clothing Trial App</b> (AR, Deep Learning, Unity, Media-Pipe). [<a href="https://github.com/ReaduanulFaridFahim/Augmented-Reality-Based-Clothing-Trial-App">🐙 Repo</a>]</li>
-        <li>☑ <b>Bangla Handwritten Text Conversion Using OCR</b> with Explainable AI Architecture (OCR, LIME, LLM). [<a href="https://github.com/ReaduanulFaridFahim/-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-">🐙 Repo</a>]</li>
-        <li>☑ <b>Sentiment Analysis from Women's Clothing Reviews</b> (NLP).</li>
-        <li>☑ <b>Sign Language Detection</b> Using YOLOv5 &amp; Media-Pipe. [<a href="https://github.com/ReaduanulFaridFahim/Sign-Language-Detection">🐙 Repo</a>]</li>
-        <li>☑ <b>Lost &amp; Found Website.</b></li>
-        <li>☑ <b>Hotel Management System.</b> [<a href="https://github.com/ReaduanulFaridFahim/Hotel-Management-System-">🐙 Repo</a>]</li>
-        <li>☑ <b>Zenthera Systems AI Automation</b> <code>[NEW]</code> — Autonomous Enterprise AI Operations, n8n Workflow Systems, Supabase Vector RAG Hub &amp; Client Acquisition Engine. [<a href="https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation">🐙 Repo</a> • <a href="https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/">🌐 Demo</a>]</li>
-        <li>☑ <b>Tactical Void &amp; Drop-In Replacement Engine</b> <code>[NEW]</code> — Empirical Sporting Continuity, Vector Similarity &amp; Arbitrage Scouting Platform. [<a href="https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine">🐙 Repo</a> • <a href="https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/">🌐 Demo</a>]</li>
-        <li>☑ <b>Football Transfers &amp; FFP Analytics Platform</b> <code>[NEW]</code> — Financial Fair Play Compliance, Squad Amortization &amp; Transfer Market Intelligence. [<a href="https://github.com/ReaduanulFaridFahim/football-transfers-ffp">🐙 Repo</a> • <a href="https://readuanulfaridfahim.github.io/football-transfers-ffp/">🌐 Portal</a>]</li>
-        <li>☑ <b>Mobile App SQA Automation Framework</b> <code>[NEW]</code> — Enterprise Mobile App Testing Suite using Appium, Python &amp; Page Object Model (POM). [<a href="https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment">🐙 Repo</a>]</li>
-      </ul>
-
-      <hr>
-
-      <h3>📑 References</h3>
       <p>
-        <b>MD Hasan Mamun</b><br>
-        Senior Lecturer, School of Business &amp; Economics, North South University, Bangladesh<br>
-        Faculty Advisor, North South University Athletics Club.<br>
-        📧 Email: <a href="mailto:hasan.mamun@northsouth.edu">hasan.mamun@northsouth.edu</a>
+        📍 <b>Location:</b> Bashundhara R/A, Dhaka, Bangladesh<br>
+        📧 <b>Email:</b> <a href="mailto:Readuanulfaridfahim1@gmail.com">Readuanulfaridfahim1@gmail.com</a><br>
+        📱 <b>Phone:</b> <a href="tel:+88001856501926">+880-01856501926</a><br>
+        💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/readuanulfaridfahim-b097741b4/">linkedin.com/in/readuanulfaridfahim-b097741b4/</a><br>
+        🌐 <b>Portfolio:</b> <a href="https://readuanulfaridfahim.github.io/">readuanulfaridfahim.github.io</a><br>
+        📄 <b>Digital CV:</b> <a href="https://readuanulfaridfahim.github.io/CV/">Interactive Web Resume</a>
       </p>
-
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Professional Engineering & Operations" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
-<br />
-
-<!-- Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 🌟 Spotlight Systems
+### <span id="job-experience">💼</span> Job Experience
+
+#### ✈️ **Executive (Airport Service) | US Bangla Airlines**
+*December 2025 – Running*
+- ☑ Support aircraft operations to ensure safe and on-time departures
+- ☑ Coordinate ramp and ground support activities in a fast-paced airport environment.
+- ☑ Assist passengers with customer service and operational inquiries
+- ☑ Maintain operational safety procedures and airline service standards.
+- ☑ Collaborate with operational teams to support smooth airport activities
+
+#### 🏢 **Management Trainee | TechDistri Limited**
+*June 2025 – November 2025*
+- ☑ Conducted product analysis and business research for technology solutions
+- ☑ Assisted in lead generation and business development activities.
+- ☑ Supported market analysis, reporting, and operational coordination
+- ☑ Worked closely with teams to support strategic business initiatives.
+
+#### 🌐 **International Business Development Intern (Remote) | GAOTek Inc.**
+*April 2025 – May 2025*
+- ☑ Lead Generation & Outreach
+- ☑ Market Research & Analysis
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="extracurricular-activities">🏆</span> Extracurricular Activities
+
+#### ⚽ **Joint Secretary | North South University Games and Sports Club (NSUSC)**
+*April 2025 – Present*
+- ☑ Created the Club's official Website (nsuac.org).
+- ☑ Organized all the internal sports events at NSU.
+- ☑ Organized National Sports Events (NSU Inter-University Sports Carnival).
+- ☑ Managed all the club websites.
+- ☑ Led a team of 300+ club members.
+- ☑ Managed the university sports team
+- ☑ Volunteering at some national events.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="academic--technical-projects">💻</span> Academic & Technical Projects
 
 <p align="center">
   <a href="https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation">
@@ -224,9 +132,93 @@
   </a>
 </p>
 
+| Project | Details & Stack | Links & Live Systems |
+| :--- | :--- | :--- |
+| **Zenthera Systems AI Automation** `[NEW]` | Autonomous Enterprise AI Operations, n8n Workflow Systems, Supabase Vector RAG Hub & Client Acquisition Engine. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) |
+| **Tactical Void & Drop-In Replacement Engine** `[NEW]` | Empirical Sporting Continuity, Vector Similarity & Arbitrage Scouting Platform for Football Players and Head Coaches. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
+| **Football Transfers & FFP Analytics Platform** `[NEW]` | Financial Fair Play (FFP) Compliance, Squad Contract Amortization & Transfer Market Intelligence Platform. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/football-transfers-ffp) • [🌐 Live Portal](https://readuanulfaridfahim.github.io/football-transfers-ffp/) |
+| **Mobile App SQA Automation Framework** `[NEW]` | Automated SQA Testing Framework for Enterprise Mobile Apps using Appium, Python & Page Object Model (POM). | [🐙 Repository](https://github.com/ReaduanulFaridFahim/ABC-Company-Sqa-Assignment) |
+| **Pre-owned Bike Price Prediction in Bangladesh** | Machine Learning Valuation Model for Secondary Two-Wheeler Market Pricing with Regression Pipelines. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Pre-Owned-Bike-Price-Prediction) |
+| **Sleep Disorder Prediction** | Clinical Sleep Disorder Classification System Utilizing Predictive Machine Learning Pipelines. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Sleep-Disorder-Predictions-) |
+| **Augmented Reality-Based Clothing Trial App** | Augmented Reality Virtual Fitting Room & Clothing Trial Application (AR, Deep Learning, Unity, Media-Pipe). | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Augmented-Reality-Based-Clothing-Trial-App) |
+| **Bangla Handwritten Text Conversion Using OCR** | Deep Learning OCR Pipeline with Explainable AI Architecture (OCR, LIME, LLM) for script segmentation & classification. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-) |
+| **Sentiment Analysis from Women's Clothing Reviews** | Natural Language Processing (NLP) pipeline for consumer sentiment evaluation. | 🔬 Academic System • NLP Classification |
+| **Sign Language Detection** | Real-Time Computer Vision System for Gesture Recognition Using YOLOv5 & Media-Pipe. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Sign-Language-Detection) |
+| **Lost & Found Website** | Full-Stack Database Application for item cataloging and recovery. | 🌐 Academic System • Web Application |
+| **Hotel Management System** | Full-Stack Hospitality Reservation, Room Inventory & Billing Management Web Application. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Hotel-Management-System-) |
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 📊 Real-Time GitHub Analytics & Contribution Activity
+### <span id="education-background">🎓</span> Education Background
+
+- 🎓 **Bachelor of Computer Science & Engineering**
+  - **North South University, Bangladesh** (2020–2025)
+  - **Major:** Machine Learning & AI
+- 🏫 **Higher Secondary School Certificate**
+  - **Chittagong Cantonment Public College** (2017–2019)
+  - **Group:** Science
+- 🏫 **Secondary School Certificate**
+  - **Bakolia Government High School** (2011–2017)
+  - **Group:** Science
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="technical-skills--competencies">🛠️</span> Technical Skills & Core Competencies
+
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,java,c,js,html,css,mysql,postgres,supabase,git,github,postman,docker,linux,bash&theme=dark" alt="Technical Skills" />
+    </a>
+  </p>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Technical Skills</h4>
+      <ul>
+        <li>➢ Advanced Microsoft Office Proficiency <em>(Word, Excel, PowerPoint, Access)</em></li>
+        <li>➢ Creative Software Mastery <em>(Canva)</em></li>
+        <li>➢ Statistical Competence <em>(SPSS)</em></li>
+        <li>➢ Prompt Engineering <em>(ChatGPT, DeepSeek)</em></li>
+        <li>➢ <strong>Programming &amp; Development:</strong> (HTML, CSS, C, Java, Python)</li>
+        <li>➢ <strong>Web Development:</strong> (HTML, CSS, JS)</li>
+        <li>➢ <strong>AI &amp; Data Tools:</strong> (TensorFlow, OpenCV, SPSS, Machine Learning, NLP)</li>
+        <li>➢ <strong>AI Productivity Tools:</strong> (ChatGPT, MidJourney, DeepSeek, Grok, Qwen, Gemini)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Core Competencies</h4>
+      <ul>
+        <li>➢ Networking</li>
+        <li>➢ Event Coordination</li>
+        <li>➢ Problem-Solving</li>
+        <li>➢ Research and Analysis</li>
+        <li>➢ Multitasker</li>
+        <li>➢ Airport Operations</li>
+        <li>➢ Ramp &amp; Ground Coordination</li>
+        <li>➢ Customer Service</li>
+        <li>➢ Operational Management</li>
+        <li>➢ Data Analysis</li>
+        <li>➢ Team Leadership</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="references">📑</span> References
+
+**MD Hasan Mamun**  
+Senior Lecturer, School of Business & Economics, North South University, Bangladesh  
+Faculty Advisor, North South University Athletics Club.  
+📧 Email: [hasan.mamun@northsouth.edu](mailto:hasan.mamun@northsouth.edu)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="github-analytics">📊</span> Real-Time GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReaduanulFaridFahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" width="49%" alt="GitHub Stats" />
