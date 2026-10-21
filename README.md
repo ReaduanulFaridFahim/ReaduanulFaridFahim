@@ -30,21 +30,22 @@
 <!-- Sleek Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-<!-- Quick Navigation Bar -->
+<!-- Bulletproof Navigation Bar with Direct Anchors -->
 <p align="center">
-  <a href="#-about-me"><b>About Me</b></a> •
-  <a href="#%EF%B8%8F-technical-arsenal--skills"><b>Technical Arsenal</b></a> •
-  <a href="#-spotlight-systems"><b>Spotlight Systems</b></a> •
-  <a href="#-featured-engineering-projects"><b>All Projects</b></a> •
-  <a href="#-real-time-github-analytics"><b>GitHub Analytics</b></a> •
-  <a href="#-connect--collaborate"><b>Connect</b></a>
+  <a href="#about-me"><b>About Me</b></a> •
+  <a href="#technical-arsenal"><b>Technical Arsenal</b></a> •
+  <a href="#spotlight-systems"><b>Spotlight Systems</b></a> •
+  <a href="#featured-projects"><b>All Projects</b></a> •
+  <a href="#github-analytics"><b>GitHub Analytics</b></a> •
+  <a href="#contribution-activity"><b>Activity Graph</b></a> •
+  <a href="#connect-collaborate"><b>Connect</b></a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### <span id="about-me">🚀</span> About Me
 
 <table>
   <tr>
@@ -68,7 +69,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 🛠️ Technical Arsenal & Skills
+### <span id="technical-arsenal">🛠️</span> Technical Arsenal & Skills
 
 <div align="center">
   <p>
@@ -124,7 +125,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 🌟 Spotlight Systems
+### <span id="spotlight-systems">🌟</span> Spotlight Systems
 
 <p align="center">
   <a href="https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation">
@@ -145,11 +146,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 🏆 Featured Engineering Projects
+### <span id="featured-projects">🏆</span> Featured Engineering Projects
 
 | Project | Domain & Technical Highlights | Links & Live Systems |
 | :--- | :--- | :--- |
-| **Zenthera Systems AI Automation** | Autonomous enterprise AI operations, n8n workflow systems, Supabase vector RAG hub, and client acquisition intelligence engine. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) |
+| **Zenthera Systems AI Automation** | Autonomous enterprise AI operations, n8n workflow systems, Supabase vector RAG hub, and client acquisition intelligence engine. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) |
 | **Tactical Void & Drop-In Replacement Engine** | Empirical sporting continuity, vector similarity & arbitrage scouting platform for football players and head coaches. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
 | **Clinical Sleep Disorder Prediction** | Machine learning healthcare diagnostics pipeline classifying sleep pathology using clinical metrics and predictive modeling. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Sleep-Disorder-Predictions-) |
 | **Football Transfers & FFP Analytics Platform** | Financial Fair Play (FFP) compliance, squad amortization, and transfer market intelligence platform. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/football-transfers-ffp) • [🌐 Live Portal](https://readuanulfaridfahim.github.io/football-transfers-ffp/) |
@@ -158,11 +159,12 @@
 | **Bangla Handwritten Text OCR Transcription** | Deep learning optical character recognition pipeline for Bangla script segmentation, classification, and transcription. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-) |
 | **AR Virtual Fitting Room Application** | Augmented reality clothing trial application featuring real-time human pose estimation and garment alignment. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Augmented-Reality-Based-Clothing-Trial-App) |
 | **Pre-Owned Two-Wheeler Price Prediction** | Machine learning valuation model and regression pipelines trained on secondary market transaction data. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Pre-Owned-Bike-Price-Prediction) |
-| **Personal Digital Portfolio & Interactive CV** | Aviation-themed engineering portfolio and interactive CV showcasing full-stack applications, research, and telemetry. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/readuanulfaridfahim.github.io) • [🌐 Live Site](https://readuanulfaridfahim.github.io/) |
+| **Interactive Digital Curriculum Vitae (CV)** | Elegant web-based digital resume engineered with semantic HTML5, modern CSS3, and print stylesheets. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/CV) • [🌐 Live Resume](https://readuanulfaridfahim.github.io/CV/) |
+| **Personal Digital Portfolio** | Aviation-themed engineering portfolio and technical platform showcasing research, applications, and telemetry. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/readuanulfaridfahim.github.io) • [🌐 Live Site](https://readuanulfaridfahim.github.io/) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 📊 Real-Time GitHub Analytics
+### <span id="github-analytics">📊</span> Real-Time GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReaduanulFaridFahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" width="49%" alt="GitHub Stats" />
@@ -175,7 +177,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
 
-### 📬 Connect & Collaborate
+### <span id="contribution-activity">🐍</span> Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ReaduanulFaridFahim/ReaduanulFaridFahim/main/assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Grid Snake Animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,25,35&height=3&section=header" width="100%" />
+
+### <span id="connect-collaborate">📬</span> Connect & Collaborate
 
 <p align="center">
   <a href="https://readuanulfaridfahim.github.io/">
@@ -190,7 +200,7 @@
   <a href="mailto:readunaulfaridfahim26@gmail.com">
     <img src="https://img.shields.io/badge/Email-readunaulfaridfahim26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://readuanulfaridfahim.github.io/CV/CV/CV.html">
+  <a href="https://readuanulfaridfahim.github.io/CV/">
     <img src="https://img.shields.io/badge/Interactive%20CV-Digital%20Resume-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
 </p>
