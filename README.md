@@ -6,7 +6,7 @@
 <!-- Dynamic Real-Time Typing Animation -->
 <p align="center">
   <a href="https://readuanulfaridfahim.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+Readuanul+Farid+Fahim;%F0%9F%9A%80+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+Deep+Learning%2C+CNNs+%26+Computer+Vision+Pipelines;%E2%9A%A1+Autonomous+Enterprise+AI+Operations+%26+n8n+RAG;%F0%9F%A7%AA+Enterprise+Mobile+%26+Web+SQA+Automation+Lead;%F0%9F%93%88+Sports+Analytics%2C+Vector+Search+%26+Predictive+AI" alt="Dynamic Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=740&lines=%F0%9F%91%8B+Hi+there!+I'm+Readuanul+Farid+Fahim;%E2%9C%88%EF%B8%8F+Airport+Operations+Executive+%7C+US-Bangla+Airlines;%F0%9F%9A%80+AI+%26+Machine+Learning+Engineer+%7C+NSU+Graduate;%F0%9F%A7%A0+Deep+Learning%2C+Computer+Vision+%26+OCR+Pipelines;%E2%9A%A1+Autonomous+Enterprise+AI+Operations+%26+n8n+RAG;%F0%9F%A7%AA+Mobile+%26+Web+SQA+Automation+Framework+Architect" alt="Dynamic Typing Headline" />
   </a>
 </p>
 
@@ -18,13 +18,16 @@
   <a href="https://readuanulfaridfahim.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/readuanulfaridfahim-b097741b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-readuanulfaridfahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/ReaduanulFaridFahim?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-14%20Public-059669?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <a href="mailto:readunaulfaridfahim26@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20AI%20%26%20ML%20Roles-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Hireable Status" />
+  <a href="mailto:Readuanulfaridfahim1@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Executive%20(Airport%20Service)-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Role Status" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh%20(UTC%2B6)-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <!-- Sleek Gradient Divider -->
@@ -51,13 +54,14 @@
   <tr>
     <td width="64%" valign="top">
       <p>
-        Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <b>Readuanul Farid Fahim</b>, a Computer Science & Engineering graduate from <b>North South University</b> specializing in <b>Artificial Intelligence, Machine Learning, Computer Vision</b>, and <b>Enterprise SQA Test Automation</b>.
+        Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <b>Readuanul Farid Fahim</b>, a Computer Science & Engineering graduate from <b>North South University</b> (Major: Machine Learning & AI) and currently serving as an <b>Executive (Airport Service) at US-Bangla Airlines</b>.
       </p>
       <ul>
-        <li>🤖 <b>AI & Machine Learning:</b> Developing end-to-end deep learning pipelines, CNN-based vision architectures, OCR script segmentation, and predictive clinical modeling.</li>
+        <li>✈️ <b>Aviation Operations:</b> Coordinating ramp, ground handling, and flight departure operations ensuring safety, compliance, and on-time performance.</li>
+        <li>🤖 <b>AI & Machine Learning:</b> Developing deep learning pipelines, CNN-based vision architectures, OCR script segmentation with explainable AI, and predictive ML diagnostics.</li>
         <li>⚡ <b>Autonomous AI Workflows:</b> Architecting enterprise operations powered by <b>n8n agents</b>, vector similarity search, and automated RAG knowledge bases.</li>
         <li>🧪 <b>Quality Assurance Lead:</b> Designing robust mobile and web test automation frameworks with <b>Appium, Selenium WebDriver, PyTest</b>, and Page Object Model (POM).</li>
-        <li>⚽ <b>Sports Intelligence:</b> Building empirical replacement engines, vector similarity scouting, and Financial Fair Play (FFP) compliance platforms.</li>
+        <li>🏆 <b>Leadership & Community:</b> Joint Secretary at North South University Games and Sports Club (NSUSC), leading 300+ members and directing the club's digital platforms.</li>
         <li>🌐 <b>Digital Footprint:</b> Explore my full portfolio, live systems, and research demos at <a href="https://readuanulfaridfahim.github.io/"><b>readuanulfaridfahim.github.io</b></a>.</li>
       </ul>
     </td>
@@ -191,14 +195,14 @@
   <a href="https://readuanulfaridfahim.github.io/">
     <img src="https://img.shields.io/badge/Personal%20Portfolio-readuanulfaridfahim.github.io-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/readuanulfaridfahim-b097741b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-readuanulfaridfahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/ReaduanulFaridFahim">
     <img src="https://img.shields.io/badge/GitHub-@ReaduanulFaridFahim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/readuanulfarid1">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-@readuanulfarid1-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:readunaulfaridfahim26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-readunaulfaridfahim26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:Readuanulfaridfahim1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Readuanulfaridfahim1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://readuanulfaridfahim.github.io/CV/">
     <img src="https://img.shields.io/badge/Interactive%20CV-Digital%20Resume-0284c7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
