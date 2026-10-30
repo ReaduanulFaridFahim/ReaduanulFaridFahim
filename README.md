@@ -44,6 +44,23 @@ fahim = {
 
 <table>
 <tr>
+<td colspan="2" width="100%" valign="top">
+
+**🛡️ BanglaShield™ — Unified National Climate Risk & Urban Flood Intelligence Platform**
+
+An institutional-grade multi-hazard climate decision suite for Bangladesh fusing **49 spatial, hydrologic, economic & meteorological data layers** (Copernicus DEM 30m, JRC 40-Yr Surface Water, NOAA IBTrACS, BWDB 17-Station River Gauges, BBS & World Bank 1995–2046 time-series). Features **8 animated cross-border hydraulic corridors**, 20 specialized defense suites, and an on-device quantized bilingual neural AI copilot (**DeltaBot™**).
+
+![GovTech](https://img.shields.io/badge/GovTech-Enterprise%20v6.2-00f0ff?style=flat-square&logo=radar&logoColor=white)
+![AI & ML](https://img.shields.io/badge/Edge%20AI-ONNX%20%2B%20WebLLM-10b981?style=flat-square&logo=openai&logoColor=white)
+![Hydrology](https://img.shields.io/badge/Hydrology-54%20Transboundary%20Rivers-38bdf8?style=flat-square)
+![Coverage](https://img.shields.io/badge/Coverage-64%20Districts-8b5cf6?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-f59e0b?style=flat-square&logo=pwa&logoColor=white)
+
+[🐙 Repository](https://github.com/ReaduanulFaridFahim/climate-risk-urban-flood-intelligence) • [🌐 Live Platform Hub](https://readuanulfaridfahim.github.io/climate-risk-urban-flood-intelligence/) • [🌊 Transboundary Corridors](https://readuanulfaridfahim.github.io/climate-risk-urban-flood-intelligence/web/transboundary_rivers.html) • [📈 20-Yr Macroeconomic AI](https://readuanulfaridfahim.github.io/climate-risk-urban-flood-intelligence/web/market_income_forecast.html)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🤖 Zenthera Systems AI Automation**
@@ -192,6 +209,7 @@ A real-time spatial computer vision virtual fitting room tracking **33 full-body
 
 | Domain | Project Name | Architecture & Methodologies | Links & Systems |
 | :---: | :--- | :--- | :--- |
+| 🛡️ **CLIMATE AI** | **BanglaShield™ Intelligence Platform** | National multi-hazard flood intelligence, 54 transboundary river hydrographs, Copernicus DEM 30m, 20-yr macro AI & in-browser neural copilot. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/climate-risk-urban-flood-intelligence) • [🌐 Live Hub](https://readuanulfaridfahim.github.io/climate-risk-urban-flood-intelligence/) |
 | 🤖 **AGENT** | **Zenthera Systems AI Automation** | Autonomous enterprise operational agent, vector RAG knowledge hub & customer acquisition workflows. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/Zenthera-Systems-AI-Automation) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/Zenthera-Systems-AI-Automation/) |
 | 🔍 **VECTOR** | **Tactical Void Replacement Engine** | Quantitative football personnel arbitrage & drop-in tactical continuity vector similarity calculator. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/tactical-void-replacement-engine) • [🌐 Live Demo](https://readuanulfaridfahim.github.io/tactical-void-replacement-engine/) |
 | 🔬 **XAI** | **Bangla Handwritten OCR Pipeline** | Deep learning script segmentation and classification augmented with LIME explainability & LLM transcription. | [🐙 Repository](https://github.com/ReaduanulFaridFahim/-Bangla-Handwritten-Text-Conversion-Using-Optical-Character-Recognition-) |
